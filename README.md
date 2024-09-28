@@ -18,6 +18,7 @@ This repository contains
 - [Lesson 0: Introduction](./notes/Lesson_0.md)
 - [Lesson 1: Overview of Multimodality](./notes/Lesson_1.md)
 - [Lesson 2: Multimodal Search](./notes/Lesson_2.md)
+- [Lesson 3: Large Multimodal Models (LMMs)](./notes/Lesson_3.md)
 
 ## Assignments
 
@@ -25,6 +26,7 @@ This repository contains
   |-------|---------------------------|-----------------|
   |#1|[Overview of Multimodality](./notes/Lesson_1.md#notebook)|<ul><li>Build a multimodal (text, image) model on MNIST dataset using Contrastive learning.</li><li>Dimensionality reduction to visualize the embeddings.</li></ul>|
   |#2|[Multimodal Search](./notes/Lesson_2.md#notebook)|<ul><li>Build multimodal search (images, videos) using Weaviate client.</li><li>Model: multimodalembedding from Google Cloud Vertex AI</li></ul>|
+  |#3|[Large Multimodal Models (LMMs)](./notes/Lesson_3.md#notebook)|<ul><li>Query images using Gemini Vision model</li></ul>|
 
 ## Additional Resources
 
