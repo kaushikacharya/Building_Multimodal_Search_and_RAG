@@ -21,15 +21,15 @@
 
 - Images are cut into patches
   - Using patches instead of pixels make it computationally efficient to process images
-    ![Image patches](../images/2_0.png)
+    ![Image patches](../images/3_0.png)
 - Each patch is embedded and passed into a transformer
 - The transformer outputs a probability distribution over the possible classes
 
-  ![Vision transformers](../images/2_1.png)
+  ![Vision transformers](../images/3_1.png)
 
 ### Visual Instruction Tuning
 
-![Visual Instruction Tuning](../images/2_2.png)
+![Visual Instruction Tuning](../images/3_2.png)
 
 - [Github repository](https://github.com/haotian-liu/LLaVA) of paper: Visual Instruction Tuning by Liu et al (2023)
 
