@@ -19,6 +19,7 @@ This repository contains
 - [Lesson 1: Overview of Multimodality](./notes/Lesson_1.md)
 - [Lesson 2: Multimodal Search](./notes/Lesson_2.md)
 - [Lesson 3: Large Multimodal Models (LMMs)](./notes/Lesson_3.md)
+- [Lesson 4: Multimodal RAG (MM-RAG)](./notes/Lesson_4.md)
 
 ## Assignments
 
