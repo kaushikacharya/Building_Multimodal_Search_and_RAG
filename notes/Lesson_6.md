@@ -32,3 +32,6 @@
       for file in files:
           myzip.write(os.path.join("./posters", file))
   ```
+  
+- Weaviate documentation
+  - [OpenAI Embeddings with Weaviate](https://weaviate.io/developers/weaviate/model-providers/openai/embeddings)
