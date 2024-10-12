@@ -23,6 +23,7 @@ This repository contains
 |3|[Large Multimodal Models (LMMs)](./notes/Lesson_3.md)||
 |4|[Multimodal RAG (MM-RAG)](./notes/Lesson_4.md)|<ul><li>Search with large multimodal model using Weaviate DB</li></ul>|
 |5|[Industry Applications](./notes/Lesson_5.md)|<ul><li>Industrial applications shown by extracting structured data from images: invoice, table, flow chart</li><li>LLM answers query on the extracted data using reasoning.</li></ul>|
+|6|[Multimodal Recommender System](./notes/Lesson_6.md)|<ul><li>Multimodal (text and image) recommendation shown on movies dataset</li></ul>|
 
 ## Assignments
 
@@ -32,6 +33,7 @@ This repository contains
   |#2|[Multimodal Search](./notes/Lesson_2.md#notebook)|<ul><li>Build multimodal search (images, videos) using Weaviate client.</li><li>Model: multimodalembedding from Google Cloud Vertex AI</li></ul>|
   |#3|[Large Multimodal Models (LMMs)](./notes/Lesson_3.md#notebook)|<ul><li>Query images using Gemini Vision model</li></ul>|
   |#5|[Industry Applications](./notes/Lesson_5.md#notebook)|<ul><li>Extract structured data from retrieved images: invoice, table, flow chart</li><li>LLM answers query on the extracted data using reasoning.</li></ul>|
+  |#6|[Multimodal Recommender System](./notes/Lesson_6.md#notebook)|<ul><li>Text and Image based semantic search on movies' title, overview and poster</li><li>Text-based semantic search using OpenAI embeddings</li><li>Image-based semantic search using Google Vertex multimodalembedding</li></ul>|
 
 ## Additional Resources
 
