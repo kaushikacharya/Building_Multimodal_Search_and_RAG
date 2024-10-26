@@ -41,6 +41,11 @@ This repository contains
 - [Weaviate Overview](https://github.com/weaviate/weaviate#weaviate-)
 - [Course Community](https://community.deeplearning.ai/c/short-course-q-a/building-multimodal-search-and-rags/448)
 
+## Certificate
+
+- [Course Completion Certificate](https://kaushikacharya.github.io/assets/certificates/DeepLearning_ai_Building_Multimodal_Search_and_RAG.pdf)
+- Issued on Oct 2024
+
 ## Related Courses
 
 Please visit my [Github page](https://kaushikacharya.github.io/courses/#generative-ai--large-language-models-llm) for other Generative AI/ LLM courses.
