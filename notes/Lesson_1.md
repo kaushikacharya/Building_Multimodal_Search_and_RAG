@@ -2,7 +2,7 @@
 
 - Multimodal Embedding Models
   - Allows us to represent multi-modal data on the same vector space
-  _ These models produce a joint embedding space that understand all of your modalities.
+  - These models produce a joint embedding space that understand all of your modalities.
   - These models preserve similarity across modalities.
 
 ## Training Multimodal Models
