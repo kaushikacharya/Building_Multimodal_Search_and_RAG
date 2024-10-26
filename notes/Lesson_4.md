@@ -30,4 +30,4 @@
 - Issue faced in local execution of Jupyter notebook
   - ```WeaviateQueryError: Query call with protocol GRPC search failed with message explorer: get class: vectorize params: vectorize params: vectorize params: vectorize keywords: remote client vectorize: connection to Google PaLM failed with status: 403 error: Permission 'aiplatform.endpoints.predict' denied on resource '//aiplatform.googleapis.com/projects/semi-random-dev/locations/us-central1/publishers/google/models/multimodalembedding@001' (or it may not exist)..```
   - This is due to project id of backup collection being different from the project id of my Google Cloud project.
-  - I couldn't figure out how to change project id of restored backup collection. (Not sure if its possible).
+  - Attempted data migration suggestion from [Weaviate forum](https://forum.weaviate.io/t/failure-in-retrieving-content-from-a-backup-restored-collection-created-on-a-different-machine/4434) but this too failed due to inability of instantiating another weaviate embedded instance.
