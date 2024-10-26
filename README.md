@@ -18,9 +18,9 @@ This repository contains
 |#|     Lesson  |   Description   |
 |-|-------------|-----------------|
 |0|[Introduction](./notes/Lesson_0.md)||
-|1|[Overview of Multimodality](./notes/Lesson_1.md)||
-|2|[Multimodal Search](./notes/Lesson_2.md)||
-|3|[Large Multimodal Models (LMMs)](./notes/Lesson_3.md)||
+|1|[Overview of Multimodality](./notes/Lesson_1.md)|<ul><li>Explains unifying multimodal embedding models using Contrastive representation.</li></ul>|
+|2|[Multimodal Search](./notes/Lesson_2.md)|<ul><li>Learn how a concept is understood across multiple modalities.</li><li>Build a text-to-any search as well as any-to-any search using Weaviate.</li></ul>|
+|3|[Large Multimodal Models (LMMs)](./notes/Lesson_3.md)|<ul><li>Understand how LLMs work</li><li>Understand how to combine LLMs and multimodal models into language vision models</li></ul>|
 |4|[Multimodal RAG (MM-RAG)](./notes/Lesson_4.md)|<ul><li>Search with large multimodal model using Weaviate DB</li></ul>|
 |5|[Industry Applications](./notes/Lesson_5.md)|<ul><li>Industrial applications shown by extracting structured data from images: invoice, table, flow chart</li><li>LLM answers query on the extracted data using reasoning.</li></ul>|
 |6|[Multimodal Recommender System](./notes/Lesson_6.md)|<ul><li>Multimodal (text and image) recommendation shown on movies dataset</li></ul>|
